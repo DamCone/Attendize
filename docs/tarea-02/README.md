@@ -38,8 +38,6 @@ Toda la documentación técnica de la Tarea 2 se organiza en esta carpeta:
 
 ### Arquitectura de 5 Elementos
 [Navegador Web] ──> [React + TypeScript] ──> [Inertia.js] ──> [Laravel] ──> [MySQL]
-code
-Code
 1. **Navegador:** Mantiene la sesión y ejecuta la aplicación SPA en memoria sin recargas.
 2. **React + TypeScript:** Renderiza componentes accesibles y valida datos tipados en tiempo real.
 3. **Inertia.js:** Comunica cliente y servidor transportando deltas JSON sin necesidad de montar una API REST separada.
